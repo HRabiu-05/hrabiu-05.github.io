@@ -20,6 +20,9 @@ Since you're building an Islamic technology ecosystem and want to present yourse
 ```text
 HRabiu-05/
 │
+├── _Nur____05
+    ├── index.html
+│   └──  README.md
 ├── index.html
 ├── css/
 │   └── style.css
@@ -597,6 +600,292 @@ With:
             <p>
                 Security research, threat detection, incident response,
                 privacy tools, and defensive cyber security solutions.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+```
+## and Then From...
+```
+<section id="mission" class="section">
+
+    <h2>My Mission</h2>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>🖥️ Islamic Operating System</h3>
+            <p>
+                Building a modern operating system rooted in Islamic values,
+                privacy, productivity, and digital independence.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🤖 Islamic AI</h3>
+            <p>
+                Creating intelligent assistants and AI systems that benefit
+                humanity while respecting ethics and Islamic principles.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>☁️ Cloud Ecosystem</h3>
+            <p>
+                Building secure communication, storage, synchronization,
+                and collaboration services.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🛡️ Security & Protection</h3>
+            <p>
+                Developing secure technologies that protect users from
+                cyber threats, data breaches, surveillance, and digital abuse.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<section id="skills" class="section">
+
+    <h2>Skills & Learning</h2>
+
+    <div class="skills">
+
+        <span>Linux</span>
+        <span>Git</span>
+        <span>GitHub</span>
+        <span>Networking</span>
+        <span>Cyber Security</span>
+        <span>HTML</span>
+        <span>CSS</span>
+        <span>JavaScript</span>
+        <span>Node.js</span>
+        <span>Databases</span>
+
+    </div>
+
+</section>
+
+<section id="projects" class="section">
+
+    <h2>Projects</h2>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>🖥️ Islamic OS</h3>
+            <p>
+                A complete operating system ecosystem for phones,
+                tablets, laptops, and desktops.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🤖 Islamic AI Assistant</h3>
+            <p>
+                AI designed to help Muslims and humanity with learning,
+                productivity, and daily life.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>☁️ Islamic Cloud</h3>
+            <p>
+                Secure storage, communication, synchronization,
+                and digital services.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🛡️ Cyber Security Platform</h3>
+            <p>
+                Security research, threat detection, incident response,
+                privacy tools, and defensive cyber security solutions.
+            </p>
+        </div>
+
+    </div>
+
+</section>" and make it professional alligned with the curent data... 
+
+```
+## To...
+```
+<section id="mission" class="section">
+
+    <h2>My Mission</h2>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>🖥️ Islamic Operating System</h3>
+            <p>
+                Designing a modern operating system focused on security,
+                performance, privacy, productivity, and digital independence
+                for individuals and organizations.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🌐 Modern Web Platform</h3>
+            <p>
+                Building professional websites, SaaS platforms,
+                APIs, and full-stack applications that solve
+                real-world problems with scalable architecture.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🤖 Ethical AI</h3>
+            <p>
+                Creating intelligent assistants and AI-powered
+                applications that promote learning, productivity,
+                accessibility, and responsible innovation.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>☁️ Cloud Ecosystem</h3>
+            <p>
+                Developing secure cloud infrastructure for
+                communication, storage, synchronization,
+                collaboration, and digital services.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🛠️ Developer Tools</h3>
+            <p>
+                Building open and professional development tools,
+                frameworks, libraries, package managers, and
+                productivity software for modern software engineers.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🛡️ Security & Privacy</h3>
+            <p>
+                Developing defensive cyber security solutions,
+                privacy technologies, monitoring systems,
+                and secure-by-design software.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<section id="skills" class="section">
+
+    <h2>Skills & Learning Path</h2>
+
+    <div class="skills">
+
+        <span>Linux</span>
+        <span>Git</span>
+        <span>GitHub</span>
+
+        <span>HTML5</span>
+        <span>CSS3</span>
+        <span>JavaScript</span>
+        <span>TypeScript</span>
+
+        <span>Node.js</span>
+        <span>Express.js</span>
+
+        <span>REST APIs</span>
+        <span>Databases</span>
+        <span>SQL</span>
+        <span>PostgreSQL</span>
+
+        <span>Prisma ORM</span>
+
+        <span>Networking</span>
+        <span>Cyber Security</span>
+
+        <span>System Design</span>
+        <span>Software Architecture</span>
+
+        <span>Cloud Computing</span>
+        <span>Operating Systems</span>
+
+    </div>
+
+</section>
+
+<section id="projects" class="section">
+
+    <h2>Projects & Roadmap</h2>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>🌐 University Management System (UMS)</h3>
+            <p>
+                A modern full-stack SaaS platform for universities,
+                providing student management, staff portals,
+                admissions, payments, communication, AI integration,
+                and administrative tools.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🖥️ Islamic Operating System</h3>
+            <p>
+                A long-term project to develop a secure operating
+                system ecosystem for desktops, laptops, tablets,
+                and mobile devices.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🤖 Islamic AI Assistant</h3>
+            <p>
+                An intelligent assistant designed to support learning,
+                productivity, software development, and everyday life
+                while respecting Islamic ethics.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>☁️ Islamic Cloud Platform</h3>
+            <p>
+                Secure cloud storage, identity management,
+                synchronization, messaging, collaboration,
+                and developer infrastructure.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🛠️ Developer Tools</h3>
+            <p>
+                Professional tools including SDKs, frameworks,
+                package management, command-line utilities,
+                automation tools, and development workflows.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🌍 Professional Web Applications</h3>
+            <p>
+                Building secure, scalable, and responsive websites,
+                dashboards, SaaS products, business platforms,
+                and modern web experiences.
+            </p>
+        </div>
+
+        <div class="card">
+            <h3>🛡️ Cyber Security Platform</h3>
+            <p>
+                Developing defensive cyber security solutions,
+                monitoring systems, threat detection,
+                digital privacy tools, and secure infrastructure.
             </p>
         </div>
 
