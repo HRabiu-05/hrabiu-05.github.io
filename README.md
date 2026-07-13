@@ -19,9 +19,8 @@ Since you're building an Islamic technology ecosystem and want to present yourse
 
 ```text
 HRabiu-05/
-│
 ├── _Nur____05
-    ├── index.html
+│   ├── index.html
 │   └──  README.md
 ├── index.html
 ├── css/
